@@ -9,6 +9,8 @@ We would employ following methods to improve the results.
 1. Multi task learning 
 1. Weak supervision 
 
+We will use version 0.5 of snorkel metal which is releasing in april. Early code may use 0.4x. 
+
 # What is semantic role labelling ?
 A semantic role in language is the relationship that a syntactic constituent has with a predicate. Typical semantic arguments include Agent, Patient, Instrument, etc. and also adjunctive arguments indicating Locative, Temporal, Manner, Cause, etc. aspects. Recognizing and labeling semantic arguments is a key task for answering "Who", "When", "What", "Where", "Why", etc. questions in Information Extraction, Question Answering, Summarization, and, in general, in all NLP tasks in which some kind of semantic interpretation is needed.
 
